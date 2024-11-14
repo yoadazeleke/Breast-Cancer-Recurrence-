@@ -13,7 +13,6 @@ In this case study, I worked on analyzing breast cancer recurrence data to demon
 6. [5. Share: Communicating Insights with Visualizations](#5-share-communicating-insights-with-visualizations)
 7. [6. Act: Implementing Insights into Action (Hypothetical)](#6-act-implementing-insights-into-action-hypothetical)
 8. [Conclusion](#conclusion)
-9. [Tools Used](#tools-used)
 
 ---
 
@@ -57,9 +56,16 @@ Once the data was prepared, I began the analysis to uncover significant patterns
 
 ### Key Findings:
 - **Age:** Younger patients had a higher recurrence rate compared to older individuals.
+  ![Age and Breast Cancer Recurrence](https://github.com/user-attachments/assets/625eeba6-a129-4b88-8976-533d1419369a)
+
 - **Tumor Size:** Larger tumors were strongly correlated with higher recurrence rates.
+  ![Tumor Size and Breast Cancer Recurrence](https://github.com/user-attachments/assets/61ae704b-a9cb-4887-ad50-16c39e2c52eb)
+
 - **Lymph Node Status:** Patients with positive lymph nodes showed higher recurrence rates.
+  ![Node-caps and Breast Cancer Recurrence](https://github.com/user-attachments/assets/a82ef439-e639-4378-8814-62d1ceade174)
+
 - **Treatment Type:** Radiation therapy was linked to lower recurrence rates, particularly in older patients.
+![Radiation Treatment and Breast Cancer](https://github.com/user-attachments/assets/5739b77f-0fef-466c-8ff6-3ccb87da3e14)
 
 ---
 
@@ -72,6 +78,7 @@ To effectively communicate my findings, I created **Tableau** dashboards that hi
 - **Survival Curves:** Kaplan-Meier survival curves were generated to show how the risk of recurrence changed over time based on factors like age and tumor size.
 
 These visualizations helped make the complex data more accessible to healthcare professionals, supporting data-driven decision-making.
+![Breast Cancer Analysis Dashboard](https://github.com/user-attachments/assets/32dfa772-eae8-4c64-bad5-8d73f63679e9)
 
 **Tableau Dashboard:**
 You can explore the Tableau dashboard for interactive visualizations here:  
