@@ -5,14 +5,13 @@ In this case study, I worked on analyzing breast cancer recurrence data to demon
 --- 
 
 ## Table of Contents
-1. [Overview](#overview)
-2. [1. Ask: Defining the Objective](#1-ask-defining-the-objective)
-3. [2. Prepare: Understanding and Cleaning the Data](#2-prepare-understanding-and-cleaning-the-data)
-4. [3. Process: Organizing the Data for Analysis](#3-process-organizing-the-data-for-analysis)
-5. [4. Analyze: Exploring the Data](#4-analyze-exploring-the-data)
-6. [5. Share: Communicating Insights with Visualizations](#5-share-communicating-insights-with-visualizations)
-7. [6. Act: Implementing Insights into Action (Hypothetical)](#6-act-implementing-insights-into-action-hypothetical)
-8. [Conclusion](#conclusion)
+1. [1. Ask: Defining the Objective](#1-ask-defining-the-objective)
+2. [2. Prepare: Understanding and Cleaning the Data](#2-prepare-understanding-and-cleaning-the-data)
+3. [3. Process: Organizing the Data for Analysis](#3-process-organizing-the-data-for-analysis)
+4. [4. Analyze: Exploring the Data](#4-analyze-exploring-the-data)
+5. [5. Share: Communicating Insights with Visualizations](#5-share-communicating-insights-with-visualizations)
+6. [6. Act: Implementing Insights into Action (Hypothetical)](#6-act-implementing-insights-into-action-hypothetical)
+7. [Conclusion](#conclusion)
 
 ---
 
@@ -56,7 +55,7 @@ Once the data was prepared, I began the analysis to uncover significant patterns
 
 ### Key Findings:
 - **Age:** Younger patients had a higher recurrence rate compared to older individuals.
-  ![Age and Breast Cancer Recurrence](https://github.com/user-attachments/assets/625eeba6-a129-4b88-8976-533d1419369a)
+![Age and Breast Cancer Recurrence](https://github.com/user-attachments/assets/2c89aa91-3613-4d75-955d-551d2af744ba)
 
 - **Tumor Size:** Larger tumors were strongly correlated with higher recurrence rates.
   ![Tumor Size and Breast Cancer Recurrence](https://github.com/user-attachments/assets/61ae704b-a9cb-4887-ad50-16c39e2c52eb)
